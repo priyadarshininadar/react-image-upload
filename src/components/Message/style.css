@@ -1,0 +1,25 @@
+.wrapper {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.button__container {
+    margin: 10px auto;
+    width: 100%;
+    text-align: center;
+}
+
+.button__container button {
+    width: 200px;
+}
+
+.chat__container {
+    height: calc(100% - 56px);
+    border-top: 1px solid #eaeaea;
+    margin-bottom: 16px;
+}
+
+.modal__body table {
+    height: 80%;
+}
